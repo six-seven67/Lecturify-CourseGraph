@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # MoneyPrinterTurbo 💸
@@ -582,3 +583,7 @@ Trying to load the model directly from the local cache, if it exists.
 ## 许可证 📝
 
 点击查看 [`LICENSE`](LICENSE) 文件
+=======
+# Lecturify-CourseGraph
+智能生成视频课Agent
+>>>>>>> 08b3c005cc572c125a441f1f6da39e32b08d5f15
